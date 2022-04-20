@@ -1,0 +1,123 @@
+@charset "UTF-8";
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    background: #000000;
+    display: grid;
+    font-family: mainfont;
+}
+.cursor{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    border: 1px solid #EEFD4B;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 10;
+    transition: top left .7s ease-out;
+    will-change: transform;
+    pointer-events: none;
+    user-select: none;
+}
+.img-container{
+    width: 300vw;
+    height: 300vh;
+    background: #000000;
+    position: relative;
+    display: grid;
+    will-change: transform;
+    transform: translate3d(0,0,0);
+    transition: transform .5s ease-out;
+}
+.fximage{
+    background-position: center center;
+    background-size: cover;
+    position: relative;
+    transition: .3s ease-in-out;
+}
+header{
+    width: 100vw;
+    height: 100vh;
+    background: none;
+    pointer-events: none;
+    user-select: none;
+    display: grid;
+    place-items: center;
+    z-index: 3;
+    position: absolute;
+    color: #ffffff;
+    text-align: center;
+    mix-blend-mode: exclusion;
+}
+header h1{
+    pointer-events: none;
+    user-select: none;
+    font-size: 15vw;
+    font-weight: 50;
+    font-family: mainfont5;
+    mix-blend-mode: difference;
+}
+.fximage1{
+    background-image: url(../assets/images/image1.jpg);
+    width: 292px;
+    height: 163px;
+    box-shadow: -11px -11px #AED2D5 ;
+    top: 100px;
+    left: 400px;
+}
+.fximage2{
+    background-image: url(../assets/images/image2.png);
+    width: 417px;
+    height: 331px;
+    box-shadow: 11px 11px #EEFD4B ;
+    top: 25px;
+    left: 19px;
+}
+.fximage3{
+    background-image: url(../assets/images/image3.png);
+    width: 253px;
+    height: 165px;
+    box-shadow: 11px 11px #EEFD4B ;
+    top: -510px;
+    left: -115px;
+}
+.fximage4{
+    background-image: url(../assets/images/image4.jpg);
+    width: 350px;
+    height: 269px;
+    top: -250px;
+    left: 450px;
+
+}
+.fximage6{
+    background-image: url(../assets/images/image6.jpg);
+    width: 256px;
+    height: 159px;
+    box-shadow: 11px 11px #EEFD4B ;
+    top: -1090px;
+    left: 800px;
+}
+.fximage5{
+    background-image: url(../assets/images/image5.jpg);
+    width: 315px;
+    height: 250px;
+    box-shadow: 11px 11px #EEFD4B ;
+    top: -1200px;
+    left: 800px;
+    background-position: center top;
+}
+.fximage7{
+    background-image: url(../assets/images/image7.jpg);
+    width:260px;
+    height: 150px;
+    box-shadow: -11px 11px #AED2D5 ;
+    top: -1400px;
+    left: 1100px;
+}

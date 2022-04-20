@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1275" height="637" viewBox="0 0 1275 637">
+  <g id="Group_2" data-name="Group 2" transform="translate(-347 -229)">
+    <text id="Near" transform="translate(347 525)" fill="#fff" font-size="329" font-family="'Osbourne \30 3 Light', Osbourne" style="mix-blend-mode: difference;isolation: isolate"><tspan x="0" y="0">Near</tspan></text>
+    <text id="Eye" transform="translate(1126 525)" fill="#fff" font-size="329" font-family="'Osbourne \30 3 Light', Osbourne" style="mix-blend-mode: difference;isolation: isolate"><tspan x="0" y="0">Eye</tspan></text>
+    <text id="Piece" transform="translate(611 807)" fill="#fff" font-size="329" font-family="'Osbourne \30 3 Light', Osbourne" style="mix-blend-mode: difference;isolation: isolate"><tspan x="0" y="0">Piece</tspan></text>
+    <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(1408 332)" fill="none" stroke="#eefd4b" stroke-width="1" style="mix-blend-mode: difference;isolation: isolate">
+      <circle cx="107" cy="107" r="107" stroke="none"/>
+      <circle cx="107" cy="107" r="106.5" fill="none"/>
+    </g>
+  </g>
+</svg>

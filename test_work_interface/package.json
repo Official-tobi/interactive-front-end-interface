@@ -1,0 +1,21 @@
+{
+  "name": "near_eye_piece",
+  "version": "1.0.0",
+  "description": "Test interface using modern javascript interaction",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Javascript",
+    "code",
+    "modern",
+    "interface",
+    "near",
+    "test",
+    "mousemove",
+    "effect"
+  ],
+  "author": "_will and Jeff",
+  "license": "ISC"
+}

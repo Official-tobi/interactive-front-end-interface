@@ -1,0 +1,81 @@
+@charset "UTF-8";
+@font-face {
+    font-family: mainfont1;
+    src: url(../assets/fonts/Osbourne/Osbourne01Black.ttf);
+}
+@font-face {
+    font-family: mainfont2;
+    src: url(../assets/fonts/Osbourne/Osbourne01Bold.ttf);
+}
+@font-face {
+    font-family: mainfont3;
+    src: url(../assets/fonts/Osbourne/Osbourne01Light.ttf);
+}
+@font-face {
+    font-family: mainfont4;
+    src: url(../assets/fonts/Osbourne/Osbourne01Medium.ttf);
+}
+@font-face {
+    font-family: mainfont5;
+    src: url(../assets/fonts/Osbourne/Osbourne01Regular.ttf);
+}
+@font-face {
+    font-family: mainfont6;
+    src: url(../assets/fonts/Osbourne/Osbourne02Black.ttf);
+}
+@font-face {
+    font-family: mainfont7;
+    src: url(../assets/fonts/Osbourne/Osbourne02Bold.ttf);
+}
+@font-face {
+    font-family: mainfont8;
+    src: url(../assets/fonts/Osbourne/Osbourne02Light.ttf);
+}
+@font-face {
+    font-family: maintfont9;
+    src: url(../assets/fonts/Osbourne/Osbourne02Medium.ttf);
+}
+@font-face {
+    font-family: mainfont10;
+    src: url(../assets/fonts/Osbourne/Osbourne02Regular.ttf);
+}
+@font-face {
+    font-family: mainfont11;
+    src: url(../assets/fonts/Osbourne/Osbourne03Black.ttf);
+}
+@font-face {
+    font-family: mainfont12;
+    src: url(../assets/fonts/Osbourne/Osbourne03Bold.ttf);
+}
+@font-face {
+    font-family: mainfont13;
+    src: url(../assets/fonts/Osbourne/Osbourne03Light.ttf);
+}
+@font-face {
+    font-family: mainfont14;
+    src: url(../assets/fonts/Osbourne/Osbourne03Medium.ttf);
+}
+@font-face {
+    font-family: mainfont15;
+    src: url(../assets/fonts/Osbourne/Osbourne03Regular.ttf);
+}
+@font-face {
+    font-family: mainfont16;
+    src: url(../assets/fonts/Osbourne/OsbourneBlack.ttf);
+}
+@font-face {
+    font-family: mainfont17;
+    src: url(../assets/fonts/Osbourne/OsbourneBold.ttf);
+}
+@font-face {
+    font-family: mainfont18;
+    src: url(../assets/fonts/Osbourne/OsbourneLight.ttf);
+}
+@font-face {
+    font-family: mainfont19;
+    src: url(../assets/fonts/Osbourne/OsbourneMedium.ttf);
+}
+@font-face {
+    font-family: mainfont20;
+    src: url(../assets/fonts/Osbourne/OsbourneRegular.ttf);
+}
